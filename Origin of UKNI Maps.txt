@@ -1,0 +1,2 @@
+The UK Map and Northern Irelane geoJsons can be found here:
+https://martinjc.github.io/UK-GeoJSON/
